@@ -10,3 +10,5 @@ Dentro del método `main`, implementé la siguiente lógica:
 3. Se imprimieron los datos de ambos objetos por consola para comprobar que cada instancia guarda su propia información de manera independiente.
 
 Ejecución en consola
+<img width="1285" height="652" alt="{6741AD31-7389-4E28-BC9A-A290EA257EE4}" src="https://github.com/user-attachments/assets/0a77e395-b6ca-4d57-a85c-ccd836f1ad31" />
+
