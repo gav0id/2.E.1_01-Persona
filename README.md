@@ -1,7 +1,6 @@
 Ejercicio 2.E.1 01 - Persona
 
 Lógica del programa
-Este ejercicio demuestra los conceptos iniciales de la Programación Orientada a Objetos. 
 Para resolverlo, cree una clase principal llamada `Persona` que define dos atributos básicos: `nombre` (tipo String) y `edad` (tipo int). 
 
 Dentro del método `main`, implementé la siguiente lógica:
