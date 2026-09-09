@@ -1,14 +1,13 @@
-public class Persona {
+public class persona {
     String nombre;
     int edad;
 
     public static void main(String[] args) {
-        Persona persona1 = new Persona();
-        Persona persona2 = new Persona();
+        persona persona1 = new persona();
+        persona persona2 = new persona();
 
         persona1.nombre = "Lucía";
         persona1.edad = 21;
-
         persona2.nombre = "Mateo";
         persona2.edad = 23;
 
